@@ -95,7 +95,7 @@ export default function Home() {
         </div>
         <div className="nav-links">
           <a
-            href="https://github.com/meinhoonharsh/rajhack/"
+            href="https://github.com/meinhoonharsh/kwikie/"
             target="_blank"
             class="button"
           >
